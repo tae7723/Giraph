@@ -114,12 +114,18 @@ AI 기술의 발전과 빠르게 변화하는 사회 속에서 현대인은 끊�
 ---
 
 ## 사용 기술
+- Frontend : Next.js, React, TypeScript, Tailwind CSS
+- Mobile App : Capacitor (Android Native Packaging)
+- Backend : Supabase (BaaS)
+- Database : PostgreSQL
+- AI : TypeScript 기반 온디바이스 감정 회복력 스캐너 알고리즘
 
 ---
 
 ## 레포지토리
 
 https://github.com/ynso-a8/Giraph/blob/frontend/README.md
+https://github.com/ynso-a8/Giraph/blob/backend/README.md
 
 ---
 
