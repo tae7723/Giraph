@@ -119,6 +119,8 @@ AI 기술의 발전과 빠르게 변화하는 사회 속에서 현대인은 끊�
 
 ## 레포지토리
 
+https://github.com/ynso-a8/Giraph/blob/frontend/README.md
+
 ---
 
 ## 향후 발전 방향 💹
